@@ -1,0 +1,15 @@
+{
+  "name": "shooooori0128",
+  "version": "1.0.0",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "lint": "textlint . && markdownlint **/*.md"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "markdownlint-cli": "^0.42.0",
+    "textlint": "^14.2.1"
+  }
+}

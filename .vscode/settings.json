@@ -1,0 +1,14 @@
+{
+  "cSpell.enableFiletypes": ["mdx"],
+  "cSpell.ignoreRegExpList": ["[０-９Ａ-Ｚａ-ｚぁ-んァ-ヶ亜-熙纊-黑]+"],
+  "cSpell.words": [
+    "Monaca",
+    "Nuxt",
+    "shooooori",
+    "textlint"
+  ],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "editor.formatOnSave": true
+}
